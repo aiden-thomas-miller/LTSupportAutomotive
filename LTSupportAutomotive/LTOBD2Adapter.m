@@ -218,6 +218,11 @@ NSString* const LTOBD2AdapterDidReceive = @"LTOBD2AdapterDidReceive";
     _logFile = nil;
 }
 
+-(void)runLoop
+{
+    [[NSRunLoop currentRunLoop] run];
+}
+
 #pragma mark -
 #pragma mark Command Handling
 
