@@ -7,7 +7,7 @@ FOUNDATION_EXPORT double LTSupportAutomotiveVersionNumber;
 
 FOUNDATION_EXPORT const unsigned char LTSupportAutomotiveVersionString[];
 
-// automotive
+// automotivee
 #import <LTSupportAutomotive/LTVIN.h>
 #import <LTSupportAutomotive/LTOBD2Adapter.h>
 #import <LTSupportAutomotive/LTOBD2AdapterELM327.h>
